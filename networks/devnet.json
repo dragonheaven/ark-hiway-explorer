@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api",
+  "title": "hiway Devnet Explorer",
+  "server": "http://136.144.230.121:4003/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "51",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "HIWAY",
+    "symbol": "WAY",
     "currency": null,
     "priceChart": false
   }
